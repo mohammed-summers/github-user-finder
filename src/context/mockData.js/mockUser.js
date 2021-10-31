@@ -1,0 +1,38 @@
+export default {
+  login: "mohammed-summers",
+  id: 82909016,
+  node_id: "MDQ6VXNlcjgyOTA5MDE2",
+  avatar_url: "https://avatars.githubusercontent.com/u/82909016?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/mohammed-summers",
+  html_url: "https://github.com/mohammed-summers",
+  followers_url: "https://api.github.com/users/mohammed-summers/followers",
+  following_url:
+    "https://api.github.com/users/mohammed-summers/following{/other_user}",
+  gists_url: "https://api.github.com/users/mohammed-summers/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/mohammed-summers/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/mohammed-summers/subscriptions",
+  organizations_url: "https://api.github.com/users/mohammed-summers/orgs",
+  repos_url: "https://api.github.com/users/mohammed-summers/repos",
+  events_url: "https://api.github.com/users/mohammed-summers/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/mohammed-summers/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Mohammed Summers",
+  company: null,
+  blog: "",
+  location: "Houston, Tx",
+  email: null,
+  hireable: null,
+  bio: "Self-taught software developer. ",
+  twitter_username: "mksummers_",
+  public_repos: 11,
+  public_gists: 0,
+  followers: 0,
+  following: 2,
+  created_at: "2021-04-20T20:27:50Z",
+  updated_at: "2021-10-30T03:01:33Z",
+};
